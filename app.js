@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('The application has successfully loaded!');
+    console.log('Application loaded successfully.');
     console.log('Welcome to our amazing app!');
-    console.log('Get started by exploring the features available.');
+    console.log('Explore the available features to get started.');
 });
