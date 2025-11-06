@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Ứng dụng đã sẵn sàng!');
+    console.log('The application is ready!');
 });
