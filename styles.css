@@ -18,7 +18,7 @@ main {
 
 footer {
     text-align: center;
-    padding: 15px 0; /* Increased padding for better visuals */
+    padding: 20px 0; /* Adjusted padding for uniformity */
     background: #34495e; /* Updated background color for better contrast */
     color: #ffffff;
     position: relative;
