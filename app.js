@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('The application is ready!');
+    console.log('The application has successfully loaded!');
 });
